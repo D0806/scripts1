@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #echo "enter the string"
 #read string
 
